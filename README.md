@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Loc
 
 ### 💻 Senior Full-Stack Developer | AI-Enhanced Coding Enthusiast
 
