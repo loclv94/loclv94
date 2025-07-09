@@ -9,7 +9,7 @@ I’m a results-driven developer with strong experience building robust, scalabl
 ## 🧠 Tech Stack
 
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS, MUI
-- **Backend:** Java (Spring Boot), Python (FastAPI, Django, Flask), Node.js
+- **Backend:** Java (Spring Boot), Node.js
 - **E-commerce:** Shopify (custom themes & apps & custom themes), Liquid
 - **Databases:** PostgreSQL, MySQL, MongoDB, Supabase
 - **Dev Tools:** Docker, GitHub Actions, Webpack, Vite
@@ -21,9 +21,10 @@ I’m a results-driven developer with strong experience building robust, scalabl
 
 - Build full-stack web applications from scratch
 - Develop and customize Shopify themes & apps
-- Optimize backend services with Java & Python
+- Optimize backend services with Java and Node.js
 - Leverage AI-assisted development (Cursor, Lovable) for productivity
 - Collaborate with cross-functional teams in Agile environments
+- High Game knowledge
 
 ---
 
@@ -34,6 +35,7 @@ I’m a results-driven developer with strong experience building robust, scalabl
 - 🛒 Shopify custom app templates
 - 📈 Scalable React dashboards
 - 🔍 AI-assisted coding experiments
+- 🔹 Game projects
 - 🔧 Microservices built with Spring Boot & FastAPI
 
 ---
