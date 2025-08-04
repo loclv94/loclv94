@@ -10,7 +10,7 @@ I’m a results-driven developer with strong experience building robust, scalabl
 
 - **Frontend:** React, Next.js, Angular, TypeScript, Tailwind CSS, MUI
 - **Backend:** Java (Spring Boot), Node.js
-- **E-commerce:** Shopify (custom themes & apps & custom themes), Liquid
+- **E-commerce:** Shopify (custom themes & apps & hydrogen), Liquid
 - **Databases:** PostgreSQL, MySQL, MongoDB, Supabase
 - **Dev Tools:** Docker, GitHub Actions, Webpack, Vite
 - **AI Tools:** Cursor, Lovable, Replit
