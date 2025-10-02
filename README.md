@@ -9,10 +9,11 @@ I’m a results-driven developer with strong experience building robust, scalabl
 
 ## 🧠 Tech Stack
 
-- **Frontend:** React, Next.js, Angular, TypeScript, Tailwind CSS, MUI
-- **Backend:** Go, Node.js
+- **Frontend:** React, Next.js, Svelte, TypeScript, Tailwind CSS, MUI
+- **Backend:** Node.js(Express.js, NestJS)
 - **E-commerce:** Shopify (custom themes & apps & hydrogen), Liquid
-- **Databases:** PostgreSQL, MySQL, MongoDB, Supabase
+- **Automation:** Zapier, N8N
+- **Databases:** PostgreSQL, MySQL, MongoDB, Supabase, Firebase
 - **Dev Tools:** Docker, GitHub Actions, Webpack, Vite
 - **AI Tools:** Cursor, Lovable, Replit
 
